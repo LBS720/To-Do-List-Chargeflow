@@ -1,6 +1,6 @@
 # To-Do List
 
-A simple web app for viewing users and their tasks from JSONPlaceholder API.
+A simple web app for viewing users and their tasks from dummyjson API.
 
 ## What it does
 
